@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a group project that will show all the private parking spaces available in an area
 - 🌱 I’m currently learning the MERN stack
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="blank">LinkedIn</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank">LinkedIn</a>
