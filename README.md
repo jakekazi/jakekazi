@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the MERN stack
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
-Languages and Tools:
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
