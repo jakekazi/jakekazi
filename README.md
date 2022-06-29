@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 <p>
-<a target="_blank" rel="nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" alt="javascript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></a> 
+  <a href="https://reactjs.org/" target="blank" rel="nofollow"><img align="center" src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react"/></a>
+  <a target="_blank" rel="nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" alt="javascript"/></a>
+  <a href="https://www.w3schools.com/html/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></a> 
   <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="css3"/></a>
+  <a href="https://www.mongodb.com/" target="blank" rel="nofollow"><img align="center" src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" height="40" width="40" alt="mongodb"/></a>
+  <a href="https://www.w3schools.com/sql/" target="blank" rel="nofollow"><img align="center" src="https://www.oracle.com/a/ocom/img/sql-dev.svg" height="40" width="40" alt="sql"/></a>
   </p>
