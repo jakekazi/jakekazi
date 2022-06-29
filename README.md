@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jake
 
 <!--
 **jakekazi/jakekazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 -->
+
+- 🔭 I’m currently working on a group project that will show all the private parking spaces available in an area
+- 🌱 I’m currently learning the MERN stack
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="blank">LinkedIn</a>
