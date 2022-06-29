@@ -1,4 +1,4 @@
-### Hi 👋, I'm Jake
+### Hi there 👋, I'm Jake
 
 <!--
 **jakekazi/jakekazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the MERN stack
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
+
+Languages and Tools: 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100" /></a>
