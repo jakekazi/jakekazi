@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 <p>
-  <a href="https://reactjs.org/" target="blank" rel="nofollow"><img align="center" src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" height="40" width="40" alt="react"/></a>
+  <a href="https://reactjs.org/" target="blank" rel="nofollow"><img align="center" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="40" width="40" alt="react"/></a>
   <a target="_blank" rel="nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" alt="javascript"/></a>
   <a href="https://www.w3schools.com/html/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></a> 
   <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="css3"/></a>
