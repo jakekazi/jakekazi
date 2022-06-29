@@ -29,5 +29,5 @@ Languages and Tools:
   <a href="https://www.w3schools.com/html/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></a> 
   <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="css3"/></a>
   <a href="https://www.mongodb.com/" target="blank" rel="nofollow"><img align="center" src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" height="40" width="40" alt="mongodb"/></a>
-  <a href="https://www.w3schools.com/sql/" target="blank" rel="nofollow"><img align="center" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" height="40" width="40" alt="sql"/></a>
+  <a href="https://www.w3schools.com/sql/" target="blank" rel="nofollow"><img align="center" src="https://cdn.imgbin.com/15/18/22/imgbin-oracle-sql-developer-oracle-database-microsoft-sql-server-oracle-corporation-developer-LgifgeA6bvJcMeumFLJCHNsFm.jpg" height="40" width="40" alt="sql"/></a>
   </p>
