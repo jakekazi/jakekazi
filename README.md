@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jake
+### Hi 👋, I'm Jake
 
 <!--
 **jakekazi/jakekazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a group project that will show all the private parking spaces available in an area
 - 🌱 I’m currently learning the MERN stack
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank">LinkedIn</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+Languages and Tools:
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
