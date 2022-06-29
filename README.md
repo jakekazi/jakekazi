@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="" target="blank" rel="nofollow"><img align="center" src="" height="40" width="40" alt=""/></a>
 -->
 
 - 🔭 I’m currently working on a group project that will show all the private parking spaces available in an area
@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" alt="javascript"/></a>
+<a target="_blank" rel="nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" alt="javascript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="html5"/></a> 
+  <a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40" alt="css3"/></a>
   </p>
