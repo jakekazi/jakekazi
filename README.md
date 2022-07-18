@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <a href="" target="blank" rel="nofollow"><img align="center" src="" height="40" width="40" alt=""/></a>
 -->
 
-- 🔭 I’m currently working on a collaborative project that allows users to list or book private parking spaces available in an area
-- 🌱 I’m currently utilizing the MERN stack
+- 🔭 I’m currently working on a collaborative project utilizing the MERN stack that allows users to list or book private parking spaces available in an area
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
