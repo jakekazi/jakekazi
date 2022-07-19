@@ -1,4 +1,4 @@
-Hi there 👋, I'm Jake
+**Hi there 👋, I'm Jake**
 
 <!--
 
@@ -21,7 +21,7 @@ Template:
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
-Languages and Tools:
+**Languages and Tools:**
 <p>
   <a href="https://reactjs.org/" target="blank" rel="nofollow"><img align="center" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="40" width="40" alt="react"/></a>
   <a href="https://expressjs.com/" target="blank" rel="nofollow"><img align="center" src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" height="40" width="100" alt="express"/></a>
