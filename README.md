@@ -1,4 +1,4 @@
-Hi there 👋, I'm Jake
+###Hi there 👋, I'm Jake
 
 <!--
 
@@ -17,8 +17,7 @@ Template:
 -->
 
 - 🔭 I’m currently working on a collaborative project that allows users to list or book private parking spaces available in an area
-- 🌱 I’m currently working with the MERN stack
-- 👯 I’m looking to collaborate on open-source projects
+- 🌱 I’m currently learning the MERN stack
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
