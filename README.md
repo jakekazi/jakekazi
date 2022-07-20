@@ -17,7 +17,7 @@ Template:
 -->
 
 - 🔭 I’m currently working on a collaborative project that allows users to list or book private parking spaces available in an area
-- 🌱 I’m currently learning the MERN stack
+- 🌱 I’m utilizing the MERN stack
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
