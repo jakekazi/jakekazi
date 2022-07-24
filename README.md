@@ -10,7 +10,7 @@ Template:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
 
 <a href="" target="blank" rel="nofollow"><img align="center" src="" height="40" width="40" alt=""/></a>
 
@@ -19,7 +19,6 @@ Template:
 - 🔭 I’ve recently worked on a collaborative project that allows users to list or book private parking spaces available in an area
 - 🌱 I’m currently utilizing the MERN stack
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
 
 
 **Languages and Tools:**
