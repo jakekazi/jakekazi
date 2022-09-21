@@ -16,8 +16,9 @@ Template:
 
 -->
 
-- 🔭 I’ve recently worked on a collaborative project that allows users to list or book private parking spaces available in an area. Tools used: React, Express, MongoDB, JWT, Bcrypt, Webpack, and Material UI.
-- 🌱 I’m currently working on an open-source project that will utilize a message broker to display a visualizaiton log for lost messages.
+- 🔭 I'm currently working on an open source software that utilizes RabbitMQ to display error messages from the Dead Letter Exchange.
+- 👯 I’ve worked on a collaborative project that allows users to list or book private parking spaces available in an area. Tools used: React, Express, MongoDB, JWT, Bcrypt, Webpack, and Material UI.
+- ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
