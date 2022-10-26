@@ -16,7 +16,7 @@ Template:
 
 -->
 
-- 🔭 Recently, constructed an open-source devTool utilizing RabbitMQ to monitor and visualize error messages for dev management of errors and debugging.
+- 🔭 Constructed an open-source devTool utilizing RabbitMQ to monitor and visualize error messages for dev management of errors and debugging.
 - 👯 Collaborated on a full-stack project that allows users to list or book private parking spaces available in an area. Tools used: React, Node.js/Express, NoSQL database (MongoDB/Mongoose), Amazon S3 bucket, Material UI, Webpack, JSON Web Token (JWT), and Bcrypt.
 - ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
