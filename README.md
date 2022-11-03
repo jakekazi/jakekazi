@@ -23,7 +23,7 @@ Template:
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
-**Languages and Tools:**
+### Languages and Tools:
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="nofollow"><img align="center" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="40" width="40" alt="react"/></a>
   <a href="https://nodejs.org/en/about/" target="_blank" rel="nofollow"><img align="center" src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" height="40" width="40" alt="node"/></a>
