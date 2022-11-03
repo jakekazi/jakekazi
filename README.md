@@ -17,7 +17,7 @@ Template:
 -->
 
 - 🔭 I co-created an open-source devTool utilizing RabbitMQ to monitor and visualize error messages for dev management of errors and debugging. Tools used: React, Node.js/Express, JavaScript/TypeScript, SQL (PostgreSQL), Material UI, Webpack, Websocket, JSON Web Token (JWT), and Bcrypt.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning about caching.
 - 👯 I’m looking to collaborate on open-source projects.
 - ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
