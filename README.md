@@ -16,7 +16,7 @@ Template:
 
 -->
 
-- 🔭 I co-created an open-source <a href="https://github.com/oslabs-beta/RabbitTracks" target="_blank" rel="nofollow"><img align="center" src="" height="40" width="40" alt=""/>devTook</a> utilizing RabbitMQ to monitor and visualize error messages for dev management of errors and debugging. Tools used: React, Node.js/Express, JavaScript/TypeScript, SQL (PostgreSQL), Material UI, Webpack, Websocket, JSON Web Token (JWT), and Bcrypt.
+- 🔭 I co-created an open-source <a href="https://github.com/oslabs-beta/RabbitTracks" target="_blank" rel="nofollow" alt="rabbittrucks-github"/>devTook</a> utilizing RabbitMQ to monitor and visualize error messages for dev management of errors and debugging. Tools used: React, Node.js/Express, JavaScript/TypeScript, SQL (PostgreSQL), Material UI, Webpack, Websocket, JSON Web Token (JWT), and Bcrypt.
 - 🌱 I’m currently learning about caching.
 - 👯 I’m looking to collaborate on open-source projects.
 - ⚡ Fun fact: I hiked to the highest peak (Mt. Marcy) of NY at 5,344 feet
