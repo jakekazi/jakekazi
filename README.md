@@ -17,9 +17,9 @@ Template:
 -->
 
 - 🔭 I co-created an open-source <a href="https://github.com/oslabs-beta/RabbitTracks" target="_blank" rel="nofollow">devTool</a> to help developers monitor and debug failed messages using RabbitMQ. Tools used: React, Node.js/Express, JavaScript, TypeScript, SQL (PostgreSQL), Webpack, WebSocket (socket.io), HTML, CSS, Material UI, JSON Web Token (JWT), and bcrypt.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently building Python projects.
 - 👯 I’m looking to collaborate on open-source projects.
-- ⚡ Fun fact: I hiked to the highest peak of NY (Mt. Marcy) at 5,344 feet.
+- ⚡ Fun fact: I hiked to the highest peak of New York (Mt. Marcy) at 5,344 feet.
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/jakekazi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
